@@ -1,0 +1,4 @@
+/sys/class/thermal/thermal_zone0
+/sys/class/thermal/thermal_zone1
+/sys/class/thermal/thermal_zone2
+/sys/class/thermal/thermal_zone3
