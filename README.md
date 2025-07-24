@@ -8,10 +8,10 @@ This repo enables you to:
 2. **Run** benchmarks while **recording** system metrics.
 3. **Plot** metric time-series to analyze performance and thermal behavior.
 
-`compile_all.sh`: compiles both project benchmarks.
-`start_recording.sh`: kicks off sensor data capture (temperature, CPU freq, etc.).
-`start_task.sh` / `start_task_basicmath.sh`: executes benchmarks.
-`sample_experiment.sh`: orchestrates full runs—compiling, logging, running task, ending logging.
+- `compile_all.sh`: compiles both project benchmarks.
+- `start_recording.sh`: kicks off sensor data capture (temperature, CPU freq, etc.).
+- `start_task.sh` / `start_task_basicmath.sh`: executes benchmarks.
+- `sample_experiment.sh`: orchestrates full runs—compiling, logging, running task, ending logging.
 
 ## 🛠 Prerequisites
 
