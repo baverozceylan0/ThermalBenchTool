@@ -40,6 +40,6 @@ Run a full experiment (build → execute → record → plot):
 ```
 
 This project complements and evaluates techniques from Baver Özceylan’s PhD thesis:  
-**Ozceylan, B.** (2023). *Thermal management under real‑time constraints: Utilizing temperature dynamics for optimal performance* (PhD thesis). University of Twente. https://doi.org/10.3990/1.9789036557962 :contentReference[oaicite:2]{index=2}
+**Ozceylan, B.** (2023). *Thermal management under real‑time constraints: Utilizing temperature dynamics for optimal performance* (PhD thesis). University of Twente. https://doi.org/10.3990/1.9789036557962
 
 
